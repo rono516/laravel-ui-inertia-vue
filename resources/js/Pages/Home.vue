@@ -7,7 +7,7 @@
                 <div class="card">
                     <div class="card-header">Dashboard</div>
                     <div class="card-body">
-                        You have verfied your emails <br>
+                        You have verfied your email <br>
                         You are logged in!
                     </div>
                 </div>
